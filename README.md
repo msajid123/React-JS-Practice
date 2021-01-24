@@ -1,5 +1,4 @@
-
-This is my Practice Work. I have learned to make custom buttons with beautiful styles on react JS. Practice on react State.
+<h1>This is my Practice Work. I have learned to make custom buttons with beautiful styles on react JS. Practices on react State.</h1>
 
 About React:
 
